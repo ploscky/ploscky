@@ -1,5 +1,4 @@
 - UCR CS '26
-- born to slay 🧍🏻‍♀️
 
 <!---
 ploscky/ploscky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
